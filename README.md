@@ -1,2 +1,2 @@
 The Dataset can be found here : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
-Accuracy achieved : 86.17%
+Accuracy achieved : 91.4%
